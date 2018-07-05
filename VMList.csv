@@ -1,0 +1,2 @@
+Source Resource Group,Source VM Name,Source VM Location,Target Resource Group,Target VM Name,Target VM Location,Target Storage Type
+RG1-unmanaged_disk,lvm1-unman,ukwest,RG2-managed_disk,lvm2-managed,ukwest,Standard_LRS
